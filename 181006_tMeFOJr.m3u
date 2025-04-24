@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azərbaycan kanalları",AZ TV
+http://str.yodacdn.net/aztv/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",AZ STAR TV (AZƏRBAYCAN)
+http://live.azstartv.com/azstar/azstar_1080p/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",ATV AZ (AZAD)
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2200/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",ATV CINEMA TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2120/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",ARB TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2187/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",BAKU TV AZ
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/16047/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",CBC AZ TV
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2196/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",CTV AZ TV
+https://livectv.radyotelekom.com.tr:3766/stream/play.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",CBC SPORT TV
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2193/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",Real TV (AZ)
+http://erlyvideo.izone.az:80/realtv/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",SPEACE TV (AZ)
+http://erlyvideo.izone.az:80/spacetv/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",KÖNÜL TV AZERBAIJAN
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",MTV(MUZ) TV
+http://rhsbjv7k.tvclub.xyz/iptv/VCGVCRSZW9BLY4/2191/index.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",MƏDƏNNIYET TV AZ
+http://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",MAHNI TV (AZ)
+http://xantv.site:41480/MahniTV/video.m3u8
+#EXTINF:-1 group-title="Azərbaycan kanalları",XEZER TV AZ
+http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/78628
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: TRT 1
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=229&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: ATV
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=231&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: A2 HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=227&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: TRT BELGESEL HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=485&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: BEYAZ TV HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=237&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: DISCOVERY CHANEL
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=488&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: STAR TV
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=232&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: SHOW TV HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=233&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: SHOW MAX
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=239&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: TEVE 2
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=257&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: TV 8 HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=251&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: KANAL D
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=230&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: KANAL 7
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=238&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: 360 Tv HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=254&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: bieN SP0RT HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=289&extension=ts
+#EXTINF:-1 group-title="Türkiyə kanalları",TR: YABAN TV HD
+http://ordekgelburaya10101101@blue.krmn1071.xyz:8080/play/live.php?mac=00:1A:79:C2:0D:74&stream=484&extension=ts
+#EXTINF:-1 group-title="Rusiya kanalları",Animal Planet HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/32795/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Discovery Channel HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/2005/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Discovery Science HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/59942/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Investigation Discovery HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/51073/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",TLC HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/38231/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",DTX HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/27/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",National Geographic HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/2007/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Nat Geo Wild HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/2004/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",History HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/45221/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",H2  HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/47392/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",HDL
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/37631/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",HGTV Home and Garden HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/48389/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Auto Moto Sport HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/52286/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Da Vinci
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/85/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Viju+ Explore HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/63941/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Viju History HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/37742/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Viju Nature HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/61953/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Viju+ Planet HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/620957/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",DocuBox HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/56228/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",В мире животных HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/1659/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Приключения HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/1665/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Космический HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/1669/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Поехали! HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/31962/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Большая Азия
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/25699/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Охота и Рыбалка
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/43737/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Охотник и рыболов HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/1658/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Дикий
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/34/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Диалоги о рыбалке
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/18031/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Дикая Рыбалка HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/18028/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Дикая Охота HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/18027/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Оружие
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/51062/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Загородный
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/45729/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Усадьба
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/123/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Ретро
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/11215/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Драйв
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/11204/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Travel+Adventure
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/44662/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Galaxy
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/18030/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Домашние животные
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/49841/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Доктор
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/55/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Моя Планета
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/90/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",История
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/52/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",365 дней ТВ
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/51060/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Top Secret
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/89/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",T24
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/82/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Кто есть кто
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/49351/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Вопросы и ответы
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/38457/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",СПАС
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/110/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Глазами Туриста
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/109/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Моя стихия
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/32947/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Travel channel
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/43872/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",RTG
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/117/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Живая планета
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/33/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Живая природа HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/18029/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Криминальное HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/37892/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Terra HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/20947/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Big Planet
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/39561/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Наука 2.0
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/50/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Curiosity Stream
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/39940/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Love Nature HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/73992/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Живи
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/72993/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Cineman AirCrash
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/59231/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",First TV Docu
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/72007/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",First TV Охота и Рыбалка
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/91629/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",BCU Russia 90s HD
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/19048/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Арсенал
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/53218/hls/pl.m3u8
+#EXTINF:-1 group-title="Rusiya kanalları",Союз
+http://rr3.tvdosug.net/~201b1f1b238bf24db140c815edd27286508/78716/hls/pl.m3u8
