@@ -1,2 +1,3 @@
 # AkbarTV
 HAMININ RAHAT ṢEKILDE IZLEYE BILECEYI IPTV M3U FAYLI VE LINKI VERIRLIR QANUNI VE YASAL VE GUNCELLENIR!!!
+M3U LINK; https://raw.githubusercontent.com/ekberabbasov/AkbarTV/refs/heads/main/181006_tMeFOJr.m3u
